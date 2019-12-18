@@ -1,1 +1,1 @@
-# edge-ai-tech-troubleshoot
+# edge-ai-tech
